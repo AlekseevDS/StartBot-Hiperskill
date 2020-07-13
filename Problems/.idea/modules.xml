@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Problems.iml" filepath="$PROJECT_DIR$/.idea/Problems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Profit/Profit.iml" filepath="$PROJECT_DIR$/Profit/Profit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Squares of natural numbers/Squares of natural numbers.iml" filepath="$PROJECT_DIR$/Squares of natural numbers/Squares of natural numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/The largest element of a sequence/The largest element of a sequence.iml" filepath="$PROJECT_DIR$/The largest element of a sequence/The largest element of a sequence.iml" />
+    </modules>
+  </component>
+</project>
